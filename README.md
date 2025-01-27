@@ -31,7 +31,3 @@ For example, `calculate([0,1,2,3,4,5,6,7,8])` should return:
 ```
 
 The unit tests for this project are in `test_module.py`.
-
-<br>
-
-[FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
